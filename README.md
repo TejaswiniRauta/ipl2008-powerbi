@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot 2026-04-15 234551" src="https://github.com/user-attachments/assets/01e3b52f-e261-4b3d-95f2-4384671d2056" />
 # IPL 2008 Power BI Dashboard
 
 ## 📊 Project Overview
