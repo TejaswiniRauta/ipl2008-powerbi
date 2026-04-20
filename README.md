@@ -1,3 +1,4 @@
+![Uploading Screenshot 2026-04-20 104933.png…]()
 # IPL 2008 Power BI Dashboard
 
 ## 📊 Project Overview
